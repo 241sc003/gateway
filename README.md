@@ -1,2 +1,0 @@
-# gateway
-devp security workshop
